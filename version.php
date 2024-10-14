@@ -29,4 +29,5 @@ $plugin->release   = "2020120301 for Moodle 4.0+";
 $plugin->requires  = 2017051500;
 $plugin->component = 'tool_forcedcache'; // Full name of the plugin (used for diagnostics).
 $plugin->maturity = MATURITY_ALPHA;
-$plugin->supported  = [400, 402];
+$plugin->supported  = [400, 404];
+$plugin->incompatible = 405;
