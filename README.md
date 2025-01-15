@@ -1,6 +1,6 @@
-# moodle-tool_forcedcache
+[![ci](https://github.com/catalyst/moodle-tool_forcedcache/actions/workflows/ci.yml/badge.svg?branch=MOODLE_40_STABLE)](https://github.com/catalyst/moodle-tool_forcedcache/actions/workflows/ci.yml?branch=MOODLE_40_STABLE)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/catalyst/moodle-tool_forcedcache/ci.yml?label=ci&branch=MOODLE_40_STABLE)
+# moodle-tool_forcedcache
 
 * [What is this?](#what-is-this)
 * [Branches](#branches)
